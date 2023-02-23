@@ -1,1 +1,1 @@
-# nteractive.rating.component
+# nteractive.rating.component.github.io
